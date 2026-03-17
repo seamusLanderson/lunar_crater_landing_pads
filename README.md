@@ -1,4 +1,4 @@
-#Lunar Crater Landing Pads
+# Lunar Crater Landing Pads
 
 * This project studies the effectiveness of using lunar craters to mitigate the effects of plume surface interactions (PSIs) during launches and landings of lunar spacecraft.
 

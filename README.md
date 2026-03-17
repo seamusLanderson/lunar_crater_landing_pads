@@ -1,9 +1,11 @@
-This project studies the effectiveness of using lunar craters to mitigate the effects of plume surface interactions (PSIs) during launches and landings of lunar spacecraft.
+#Lunar Crater Landing Pads
 
-The file "crater_pads_LIB.py" contains a library of functions to simulate the ballistic trajectories of particles ejected by PSIs. 
+* This project studies the effectiveness of using lunar craters to mitigate the effects of plume surface interactions (PSIs) during launches and landings of lunar spacecraft.
 
-Currently, only NAC DTMs can be used. Crater labels must be in YOLO format. 
+* The file "crater_pads_LIB.py" contains a library of functions to simulate the ballistic trajectories of particles ejected by PSIs. 
 
-The file "demo.py" runs a demonstration of the simulation using a subsection of the NAC DTM "AITKEN01", with pre-identified craters. 
+* Currently, only NAC DTMs can be used. Crater labels must be in YOLO format. 
+
+* The file "demo.py" runs a demonstration of the simulation using a subsection of the NAC DTM "AITKEN01", with pre-identified craters. 
 
 

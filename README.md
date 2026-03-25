@@ -6,6 +6,6 @@
 
 * Currently, only NAC DTMs can be used. Crater labels must be in YOLO format. 
 
-* The file "demo.py" runs a demonstration of the simulation using a subsection of the NAC DTM "AITKEN01", with pre-identified craters. 
+* The file "demo.py" runs a demonstration of the simulation using a subsection of the NAC DTM "AITKEN01", with pre-identified craters. Run time on a i9-12900 CPU using 20/24 threads is ~23 min.
 
 
